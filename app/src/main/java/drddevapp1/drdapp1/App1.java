@@ -28,7 +28,7 @@ public class App1 extends AppCompatActivity {
         });
     }
 //fuck kyrne
-    //thing ifasdfkla
+    //thing ifasdfklagghjgjgjhgjgjgghj
     //hi guys
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
