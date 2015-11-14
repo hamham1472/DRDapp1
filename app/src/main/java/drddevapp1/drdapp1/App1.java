@@ -28,7 +28,7 @@ public class App1 extends AppCompatActivity {
         });
     }
 //fuck kyrne
-    //Kyrne has a big dick. Right Here
+    //Kyrne has a big dick.
     //thing ifasdfkla
     //hi guys
     @Override
