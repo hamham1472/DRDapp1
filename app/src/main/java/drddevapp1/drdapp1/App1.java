@@ -28,6 +28,7 @@ public class App1 extends AppCompatActivity {
         });
     }
 //fuck kyrne
+    //Kyrne has a big dick
     //thing ifasdfkla
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
