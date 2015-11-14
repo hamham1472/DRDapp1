@@ -38,6 +38,7 @@ public class App1 extends AppCompatActivity {
     }
 
     @Override
+    // kyrne has a big dick fo sho
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle action bar item clicks here. The action bar will
         // automatically handle clicks on the Home/Up button, so long
