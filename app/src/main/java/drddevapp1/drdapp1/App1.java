@@ -29,6 +29,7 @@ public class App1 extends AppCompatActivity {
     }
 //fuck kyrne
     //thing ifasdfkla
+    //hi guys
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
         // Inflate the menu; this adds items to the action bar if it is present.
